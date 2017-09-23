@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/zq/1jj2csj9561ddwrq016__n9r0000gn/T/d-117819-7889-azmq6x.703choxbt9/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/zq/1jj2csj9561ddwrq016__n9r0000gn/T/d-117819-7889-azmq6x.703choxbt9/package.tgz",
+        "spec": "/private/var/folders/zq/1jj2csj9561ddwrq016__n9r0000gn/T/d-117819-7889-azmq6x.703choxbt9/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/zq/1jj2csj9561ddwrq016__n9r0000gn/T/apm-install-dir-117819-7889-1de57xl.z8wzlzyqfr"
+    ]
+  ],
+  "_from": "../d-117819-7889-azmq6x.703choxbt9/package.tgz",
+  "_id": "language-emacs-lisp@1.1.1",
+  "_inCache": true,
+  "_location": "/language-emacs-lisp",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/zq/1jj2csj9561ddwrq016__n9r0000gn/T/d-117819-7889-azmq6x.703choxbt9/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/zq/1jj2csj9561ddwrq016__n9r0000gn/T/d-117819-7889-azmq6x.703choxbt9/package.tgz",
+    "spec": "/private/var/folders/zq/1jj2csj9561ddwrq016__n9r0000gn/T/d-117819-7889-azmq6x.703choxbt9/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117819-7889-azmq6x.703choxbt9/package.tgz",
+  "_shasum": "a5845ec0d8eaa4e908ba0c7b7272fd2e1adbedcb",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/zq/1jj2csj9561ddwrq016__n9r0000gn/T/d-117819-7889-azmq6x.703choxbt9/package.tgz",
+  "_where": "/private/var/folders/zq/1jj2csj9561ddwrq016__n9r0000gn/T/apm-install-dir-117819-7889-1de57xl.z8wzlzyqfr",
+  "bugs": {
+    "url": "https://github.com/Alhadis/language-emacs-lisp/issues"
+  },
+  "dependencies": {},
+  "description": "Emacs Lisp support for Atom.",
+  "devDependencies": {},
+  "engines": {
+    "atom": "*"
+  },
+  "homepage": "https://github.com/Alhadis/language-emacs-lisp#readme",
+  "keywords": [
+    "Emacs",
+    "Lisp",
+    "Elisp",
+    "Scheme",
+    "GNU",
+    "FSF"
+  ],
+  "license": "ISC",
+  "name": "language-emacs-lisp",
+  "optionalDependencies": {},
+  "readme": "Emacs Lisp Support\n==================\n\nHand-crafted syntax highlighting and editor commands for Emacs Lisp in Atom.\n\n<img src=\"https://raw.githubusercontent.com/Alhadis/language-emacs-lisp/static/figure-1.png\" width=\"802\" alt=\"Atomacs\" />\n\n\nCommands\n--------\nThis package includes two commands to run Lisp code in Emacs from Atom:\n\n* `language-emacs-lisp:run-selection`\n* `language-emacs-lisp:run-file`\n\n<img src=\"https://raw.githubusercontent.com/Alhadis/language-emacs-lisp/static/figure-2.png\" width=\"464\" alt=\"Math: One not even\" />\n\nThese aren't attached to any keybindings by default. You'll need to assign them\n[shortcuts](http://flight-manual.atom.io/behind-atom/sections/keymaps-in-depth/)\nyourself.\n\n**NOTE:**\nThese require Emacs to be in your `$PATH`, and probably don't work on Windows.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alhadis/language-emacs-lisp.git"
+  },
+  "version": "1.1.1",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".js": [
+        "index.js"
+      ],
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

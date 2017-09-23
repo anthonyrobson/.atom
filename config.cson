@@ -1,0 +1,55 @@
+"*":
+  "autocomplete-plus":
+    autoActivationDelay: 100
+    confirmCompletion: "tab always, enter when suggestion explicitly selected"
+    enableExtendedUnicodeSupport: true
+  autosave:
+    enabled: true
+  "bracket-matcher":
+    autocompleteCharacters: [
+      "()"
+      "[]"
+      "{}"
+      "\"\""
+      "``"
+      "“”"
+      "‘’"
+      "«»"
+      "‹›"
+    ]
+  core:
+    audioBeep: false
+    closeDeletedFileTabs: true
+    disabledPackages: [
+      "autocomplete-css"
+      "autocomplete-html"
+      "language-coffee-script"
+      "language-csharp"
+      "language-go"
+      "language-javascript"
+      "language-json"
+      "language-less"
+      "language-mustache"
+      "language-objective-c"
+      "language-php"
+      "language-sass"
+      "language-ruby-on-rails"
+      "language-sql"
+      "welcome"
+    ]
+    restorePreviousWindowsOnStart: "no"
+    telemetryConsent: "no"
+    titleBar: "custom"
+  editor:
+    autoIndentOnPaste: false
+    fontFamily: "Office Code Pro"
+    scrollPastEnd: true
+  "exception-reporting":
+    userId: "52ee416d-50a0-47a1-ac9e-db3332d47dd1"
+  tabs:
+    enableVcsColoring: true
+  "unity-ui":
+    colorStatusIndicatorsInTreeView: true
+    showIcons: true
+  welcome:
+    showOnStartup: false
